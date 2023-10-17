@@ -1,6 +1,6 @@
 
 
-# plasma-theme / Canta Dark
+# global-theme / Canta Dark
 
 
 ## Link

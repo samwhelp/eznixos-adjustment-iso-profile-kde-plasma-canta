@@ -1,6 +1,6 @@
 
 
-# plasma-theme / Canta Light
+# global-theme / Canta Light
 
 
 ## Link
